@@ -96,11 +96,9 @@ A GPU is recommended for faster inference. Actual performance depends on hardwar
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd smart-glasses-ai
+git clone https://github.com/TBPA1896/LLM-Baseline.git
+cd LLM-Baseline
 ```
-
-Replace the placeholder URL with your repository URL.
 
 ### 2. Create a virtual environment
 
